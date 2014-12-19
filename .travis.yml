@@ -1,0 +1,6 @@
+before_script:
+  - composer install
+  - phantomjs --webdriver=4444
+
+script:
+  - bin/behat
