@@ -1,4 +1,4 @@
-# Behat Mink BDD Example
+# Behat Mink BDD Example [![Build Status](https://travis-ci.org/ddpkts/behat-mink-example.svg?branch=master)](https://travis-ci.org/ddpkts/behat-mink-example)
 
 Simple checkout feature which buys `Transport container barrel` from OXID eShop demoshop.
 
