@@ -4,7 +4,7 @@ php:
 
 before_script:
   - composer install
-  - phantomjs --webdriver=4444 &
+  - phantomjs --webdriver=4444 && PID=$! &
   - sleep 1
 
 script:
